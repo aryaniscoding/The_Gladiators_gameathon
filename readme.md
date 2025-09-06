@@ -1,15 +1,4 @@
 
----
-
-###  Downloadable `README.md`
-
-I’ve prepared the README file content for easy download. Click the button below to download it directly and add it to your repo:
-
-<button onclick="downloadREADME()">Download README.md</button>
-
-<script>
-function downloadREADME() {
-  const content = `# 🏏 The Gladiators: Fantasy Cricket Team Selector
 
 ## 🔍 Overview
 
@@ -125,7 +114,7 @@ Ensure that \`ipl_2025_gameathon.xlsx\` is included or mounted properly.
 
 ## 🧠 Contributors
 
-Made with passion for Gameathon 2025.
+Made with passion for Dream11 IPL Gameathon 2025.
 
 ---
 
