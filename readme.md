@@ -11,12 +11,12 @@ The selection process ensures team balance across roles (Wicket Keeper, Batsman,
 ## 📁 Project Structure
 
 \`\`\`
-The_Gladiators_gameathon/
-├── run_model.py               # Main script to run team selection
-├── ipl_2025_gameathon.xlsx    # Player statistics and squad data
-├── Dockerfile                 # Docker container setup
-├── requirements.txt           # Python package dependencies
-└── README.md                  # This documentation file
+The_Gladiators_gameathon/<br>
+├── run_model.py               # Main script to run team selection<br>
+├── ipl_2025_gameathon.xlsx    # Player statistics and squad data<br>
+├── Dockerfile                 # Docker container setup<br>
+├── requirements.txt           # Python package dependencies<br>
+└── README.md                  # This documentation file<br>
 \`\`\`
 
 ---
